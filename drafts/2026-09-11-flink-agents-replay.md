@@ -1,8 +1,8 @@
-# Draft — Post #5 from backlog (Open Source pillar)
+# Draft — Post #5 from backlog
 
 **Platform:** LinkedIn
-**Status:** awaiting approval (sent to WhatsApp)
-**Source:** `C:\tmp\opensource\Contribution-projects\discussion_body.txt` (real Flink Agents GitHub discussion post), cross-checked against `profile/about-me.md` section 3.
+**Status:** awaiting approval
+**Source:** the real Flink Agents GitHub discussion post, cross-checked against `notes/profile.md` section 3.
 
 ---
 

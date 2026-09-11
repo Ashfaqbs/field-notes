@@ -37,7 +37,7 @@ The through-line: take an infra domain (OS, containers, Kafka, Flink) and give a
 This is the strongest content source: original architecture thinking, written with the discipline of "cite the file, don't guess."
 
 ### 3. Active open-source engagement, not just personal repos
-Found in local contribution work (`C:\tmp\opensource\Contribution-projects`): a detailed design proposal posted to an Apache Flink Agents GitHub discussion, arguing for a "replay job" feature (replay recorded input against a savepoint to test agent/prompt changes safely before shipping). It's a real, current back-and-forth with a maintainer (@wenjin272), including open questions and explicit trade-offs — the kind of contribution that shows systems judgment, not just a PR.
+A detailed design proposal posted to an Apache Flink Agents GitHub discussion, arguing for a "replay job" feature (replay recorded input against a savepoint to test agent/prompt changes safely before shipping). It's a real, current back-and-forth with a maintainer (@wenjin272), including open questions and explicit trade-offs — the kind of contribution that shows systems judgment, not just a PR.
 
 ### 4. Applied AI with a cost/engineering lens
 **[TinyLLM-usecases](https://github.com/Ashfaqbs/TinyLLM-usecases)** (36 stars, most-starred repo) argues for small/local LLMs (<4B params) for tool-routing and classification instead of defaulting to frontier models, with a cost table showing a $30/month CPU server replacing $50k+/month in API costs at scale. Practical, contrarian-to-hype, and numbers-backed.
@@ -59,4 +59,4 @@ These came from ashfaqdevfolio.vercel.app, not from GitHub evidence directly —
 
 ## Repos Explicitly Not Featured
 
-Tutorial-follow-alongs and course exercises (e.g. `HTML-And-CSS`, `Javascript`, `servlets`, `ProductCRUD`, `Google-Contacts-Clone-Springboot-and-Thyemleaf`) — real learning history, but not accomplishment content. Kept out of the strategy doc's backlog for that reason.
+Tutorial-follow-alongs and course exercises (e.g. `HTML-And-CSS`, `Javascript`, `servlets`, `ProductCRUD`, `Google-Contacts-Clone-Springboot-and-Thyemleaf`) — real learning history, but not writeup-worthy on their own. Kept out of `backlog.md` for that reason.
